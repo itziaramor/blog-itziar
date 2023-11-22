@@ -1,0 +1,12 @@
+.blog {
+    width: 500px;
+    height: 200px;
+    margin: 200px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 4px 9px #00000054;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
